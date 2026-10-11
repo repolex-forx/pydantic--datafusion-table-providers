@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydantic/datafusion-table-providers/commit/2064c60b06831835e4ed9ee7eebfc6e595c6b468",
       "git:hexsha": "2064c60b06831835e4ed9ee7eebfc6e595c6b468",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
