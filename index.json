@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "datafusion-table-providers",
+  "versions": [
+    {
+      "commit": "2064c60b06831835e4ed9ee7eebfc6e595c6b468",
+      "tag": "",
+      "parsed_at": "2026-10-11T21:37:30.502904+00:00"
+    }
+  ]
+}
